@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249165659741",
+    "project_id": "shopeaze-60928",
+    "storage_bucket": "shopeaze-60928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249165659741:android:32ea1c492ee4b81d5e97b4",
+        "android_client_info": {
+          "package_name": "com.priyanshbakhtani.ShopEaze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249165659741-8ri38622pckktor3khbujlglnr5nk9vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYdvRD_q30uzT2WersqGonaKEdEbwTXGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249165659741-8ri38622pckktor3khbujlglnr5nk9vi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
